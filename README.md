@@ -1,26 +1,4 @@
-# Styles & Signs Final Challenge Starter Code
-
-This is a place for you to start building your Styles and Signs Final Challenge Project!
-
-### Project Requirements
-Your project should:
-- Use the correct (SignMNIST) training and test datasets. 
-- Change the number and/or the split of the data between validation and training datasets. 
-- Change the design of the neural net by changing the size of the hidden layer.
-- Contain a print statement which displays a measure of the final accuracy. 
-- Contain print statements indicating which two or three letters the model most often misidentifies.
-
-
-
-### Extensions
-You can extend your project further by:
-- Trying a different ML technique
-- Exploring Random Variability
-
-
-
-###  Attributions
-*If you used any code, stories, or poems from another person or group of people, tell us about it here. Make sure it is in the public domain, has a license that allows you to use it, or is one of your own. 
+# FINAL BASICA NEURAL NETWORK PROJECT FOR GIRLS WHO CODE SUMMER PATHWAYS PROGRAM
 - Sign MNIST dataset source: https://www.openml.org/search?type=data&status=active&id=45082
 
 ---
